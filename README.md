@@ -32,10 +32,15 @@ I bring 28+ years of global IT leadership experience across telecoms, finance, g
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **TIBS Digitalization** | Revamped International Billing System for APAC | Java, Spring Boot, APIs, AWS |
-| **Predictive AI Support** | ML-driven ticket routing system | Python, TensorFlow, NLP |
-| **Market Data Platform** | NeoXam DataHub integration with Bloomberg, Reuters | Data Arch, APIs |
-| **Backstage Dev Portal** | CI/CD & observability integrated | React, GitLab, Terraform |
+| **TIBS Digitalization** | Revamped International Billing System for APAC customers, integrating APIs and cloud-native architecture. | `Java`, `Spring Boot`, `APIs`, `AWS`, `GCP` |
+| **Predictive AI Support** | ML-driven ticket routing system for telecom and enterprise clients, improving response time and accuracy. | `Python`, `TensorFlow`, `NLP` |
+| **Secure Cloud Migration** | Migrated 500+ apps from legacy data centers to hybrid/multi-cloud platforms across finance and insurance. | `Azure`, `AWS`, `GCP`, `Terraform`, `Kubernetes` |
+| **Azure Sentinel SIEM** | Implemented advanced threat detection for banking systems; integrated KQL analytics for real-time response. | `Azure Sentinel`, `KQL`, `SIEM`, `SecurityOps` |
+| **Backstage Dev Portal** | Built internal developer portal with CI/CD and observability integrations for global teams. | `React`, `GitLab`, `Terraform` |
+| **IAM + Cybersecurity Integration** | Designed enterprise-wide Identity and Access Management using CyberArk and ADFS, aligning with MAS standards. | `CyberArk`, `ADFS`, `Azure AD`, `ServiceNow` |
+| **DC Consolidation @ HSBC** | Led merger of AXA-HSBC infrastructure: 100+ apps migrated securely with minimal downtime. | `Cisco UC`, `AWS`, `O365`, `VMware`, `Verint` |
+| **ISO27001 Infra Uplift** | Delivered infrastructure security uplift for healthcare and financial institutions to meet ISO standards. | `Palo Alto`, `Checkpoint`, `DCIM`, `Aruba`, `M365` |
+| **Network Infra Modernization** | Modernized enterprise networking using SD-WAN, Meraki, Fortinet, and Next-Gen Firewalls. | `SD-WAN`, `Meraki`, `FortiGate`, `Cisco ACI` |
 
 ---
 
