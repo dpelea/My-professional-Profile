@@ -32,7 +32,8 @@ I bring 28+ years of global IT leadership experience across telecoms, finance, g
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **TIBS Digitalization** | Revamped International Billing System for APAC customers, integrating APIs and cloud-native architecture. | `Java`, `Spring Boot`, `APIs`, `AWS`, `GCP` |
+|**Blockchain Solution** | •	Lead delivery of digital banking platforms, blockchain-enabled custodial wallets, card issuing programs, and next-gen payment solutions. 
+|**TIBS Digitalization** | Revamped International Billing System for APAC customers, integrating APIs and cloud-native architecture. | `Java`, `Spring Boot`, `APIs`, `AWS`, `GCP` |
 | **Predictive AI Support** | ML-driven ticket routing system for telecom and enterprise clients, improving response time and accuracy. | `Python`, `TensorFlow`, `NLP` |
 | **Secure Cloud Migration** | Migrated 500+ apps from legacy data centers to hybrid/multi-cloud platforms across finance and insurance. | `Azure`, `AWS`, `GCP`, `Terraform`, `Kubernetes` |
 | **Azure Sentinel SIEM** | Implemented advanced threat detection for banking systems; integrated KQL analytics for real-time response. | `Azure Sentinel`, `KQL`, `SIEM`, `SecurityOps` |
