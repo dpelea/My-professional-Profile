@@ -4,7 +4,7 @@ Dennis Pelea's Github written profile
 
 🎯 **Transformational IT Leader | Cloud & Network Architect | Digital Transformation Strategist**
 
-I bring 28+ years of global IT leadership experience across telecoms, finance, government, and healthcare. My mission is to bridge business and technology through scalable solutions, cloud innovation, and digital-first strategies.
+I bring 28+ years of global IT leadership experience across telecoms, Logistics, Fintech/finance, government, and healthcare. My mission is to bridge business and technology through scalable solutions, cloud innovation, and digital-first strategies.
 
 ---
 
@@ -32,7 +32,7 @@ I bring 28+ years of global IT leadership experience across telecoms, finance, g
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-|**Blockchain Solution** | •	Lead delivery of digital banking platforms, blockchain-enabled custodial wallets, card issuing programs, and next-gen payment solutions. | `Java`, `Spring Boot`, `APIs`, `AWS`, `GCP` | `Blockchain(Ethereum, Hyperledger, Web3)`, `Digital Banking`, `Custodial Wallets`, `Cloud Platforms (AWS, GCP, Azure)`,  `Fintech Integration`, `Regulatory Compliance (AML/KYC)` |  
+|**Blockchain Solution** | •	Lead delivery of digital banking platforms, blockchain-enabled custodial wallets, card issuing programs, and next-gen payment solutions. | `Java`, `Spring Boot`, `APIs`, `Blockchain(Ethereum, Hyperledger, Web3)`, `Digital Banking`, `Custodial Wallets`, `Cloud Platforms (AWS, GCP, Azure)`,  `Fintech Integration`, `Regulatory Compliance (AML/KYC)` |  
 |**TIBS Digitalization** | Revamped International Billing System for APAC customers, integrating APIs and cloud-native architecture. | `Java`, `Spring Boot`, `APIs`, `AWS`, `GCP` |
 | **Predictive AI Support** | ML-driven ticket routing system for telecom and enterprise clients, improving response time and accuracy. | `Python`, `TensorFlow`, `NLP` |
 | **Secure Cloud Migration** | Migrated 500+ apps from legacy data centers to hybrid/multi-cloud platforms across finance and insurance. | `Azure`, `AWS`, `GCP`, `Terraform`, `Kubernetes` |
